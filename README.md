@@ -1,4 +1,4 @@
-# **_Healthy Teeth_**
+# **_Rezerwacaja-Reservation-AWS_**
 
 ### **Features:**
 
@@ -11,13 +11,10 @@
 - React.js
 - React Router
 - React Hook Form
-- Firebase Auth
+- Amplify Auth
 - Bootstrap
-- Heroku
+- AWS
 - Node.js
 - MongoDB
 - Express.js
 
-### **Useful Link:**
-
-[Live Website](https://healthy-teeth.web.app/) | [Server-side Repository](https://github.com/Tamim-Hossain/healthy-teeth-server)
